@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.prod
+*.log
+tmp/
+# 유튜브 쿠키 = 로그인 정보, 절대 커밋 금지
+cookies*.txt
+*.cookies.txt
